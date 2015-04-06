@@ -1,0 +1,9 @@
+Final 2 teams
+
+- Predict winner of match 
+->toss winner (matka)
+->first bat/bowl
+
+-tweet and share for extra points
+
+
